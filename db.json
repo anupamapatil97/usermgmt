@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test@test.com",
+      "dob": "2022-09-16",
+      "gender": "Female",
+      "id": 1
+    },
+    {
+      "firstName": "testuser",
+      "lastName": "test",
+      "email": "testuser@test.com",
+      "dob": "2022-09-02",
+      "gender": "Female",
+      "id": 2
+    },
+    {
+      "firstName": "testuser12",
+      "lastName": "testuser",
+      "email": "testuser12@test.com",
+      "dob": "2022-09-02",
+      "gender": "Male",
+      "id": 3
+    },
+    {
+      "firstName": "testuser",
+      "lastName": "test",
+      "email": "testuser@test.com",
+      "dob": "2022-09-02",
+      "gender": "Female",
+      "id": 2
+    },
+    {
+      "firstName": "Shri",
+      "lastName": "Patil",
+      "email": "shri@test.com",
+      "dob": "2022-09-21",
+      "gender": "Male",
+      "id": 6
+    },
+    {
+      "firstName": "dffs",
+      "lastName": "sfs",
+      "email": "dsfs@gmail.com",
+      "dob": "2022-12-09",
+      "gender": "Female",
+      "id": 7
+    }
+  ]
+}

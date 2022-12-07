@@ -1,0 +1,142 @@
+.userList-container{
+    width: 100% !important;
+    margin: 0 auto;
+    height: 100vh;
+    padding: 20px 0;
+    background-color:rgb(239 239 239 / 55%);
+}
+.userList-wrapper{
+    width: 100%;
+}
+.userList-title{
+    margin: 0 !important;
+    padding: 20px 10px !important;
+    text-align: center;
+    color: gray;
+}
+.userList{
+    padding: 20px;
+    width: 90%;
+    margin: 0 auto;
+}
+.btn-container{
+margin-right: 0% !important;
+margin-left: 0% !important;
+text-align: right;
+padding: 10px;
+}
+.table-container{
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+.create-btn{
+    text-decoration: none;
+    background-color: rgba(123, 123, 238, 0.86);
+    border: 1px solid rgba(123, 123, 238, 0.86);
+    color: white;
+    padding: 10px;
+    border-radius: 2px;
+}
+.table-wrapper{
+    width: 80%;
+    margin: 0 auto;
+}
+.table-wrapper thead{
+    text-align: left !important;
+    border-bottom: 10px solid gray !important;
+    box-shadow: 2px rgb(208, 226, 243);
+
+}
+.table-wrapper tbody tr td{
+    margin-left: 10px;
+}
+.card-btn{
+    display: flex;
+    align-items: center;
+}
+.delete-btn{
+    background-color: rgba(225, 33, 33, 0.919);
+    border-radius: 2px;
+    border: 2px solid rgba(225, 33, 33, 0.919);
+    padding: 7px 10px;
+    color: white;
+    cursor: pointer;
+    margin-right: 10px;
+    width: 40%;
+}
+.edit-btn{
+    background-color: rgba(38, 155, 12, 0.919);
+    border-radius: 2px;
+    border: 2x solid rgba(38, 155, 12, 0.919);
+    padding: 6px 10px;
+    color: white;
+    cursor: pointer;
+    width: 30%;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    text-align: center;
+}
+.userDetails-container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px auto;
+}
+
+.user-card{
+    width: 22%;
+    background-color:rgb(239 239 239 / 80%);
+    box-shadow: 1px 2px 3px rgb(189, 188, 188) ;
+    padding: 10px;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 300px;
+    max-height: 200px;
+    border-radius: 5px;
+    word-wrap: break-word;
+}
+.img-section{
+    width: 25%;
+}
+.img-wrapper{
+    width: 100%;
+    background-color: #e7e1e1;
+    box-shadow: 2px 2px 2px rgb(189, 188, 188);
+    height: 90px;
+}
+.detail-section{
+    width: 70%;
+}
+.detail-section h3{
+margin: 8px 0 2px 0 !important;
+}
+.detail-section p{
+    margin: 0 0 10px 0;
+}
+.search-form-container{
+    width: 100%;
+}
+.search-form{
+    width: 90%;
+    /* background-color: crimson; */
+    margin: 0 auto;
+}
+.search-form input{
+    padding: 10px;
+    width: 70%;
+    border: 1px solid rgb(237, 233, 233);
+}
+.search-btn, .clear-search-btn{
+    width: 10%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 2px;
+    border: 2px solid rgb(192, 190, 190);
+    cursor: pointer;
+}

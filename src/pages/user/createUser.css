@@ -1,0 +1,77 @@
+.createUser-container{
+    width: 90%;
+    margin: 0 auto !important;
+    height: 100vh;
+}
+.createUser-wrapper{
+    width: 100%;
+    margin: 50px 0 0 0;
+    box-shadow: 1px 2px 3px gray;
+}
+.createUser-title{
+    text-align: center;
+    color: gray;
+    padding: 10px;
+    margin: 0;
+}
+.goback-btn{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    border: 2px solid rgb(232, 231, 231);
+
+    
+}
+.form-wrapper{
+    width: 50%;
+    margin: 50px auto;
+}
+.createUser-form{
+    margin: 30px auto;
+}
+.form-group{
+    padding: 10px;
+    display: flex;
+}
+.form-label{
+    width: 25%;
+    
+}
+.form-control{
+    width: 60%;
+    padding: 10px;
+    border: 1px solid rgb(205, 202, 202);
+}
+.create-cancel-btn{
+    display: flex;
+    align-items: center;
+    width: 100%;
+
+}
+.create-user-btn{
+    width: 15%;
+    padding: 10px;
+    margin: 20px 10px 20px 10px;
+    border: 2px solid rgb(232, 231, 231);
+    border-radius: 2px;
+}
+.cancel-btn{
+    width: 13% !important;
+    padding: 7px 10px;
+    margin: 20px 0px 20px 10px;
+    text-decoration: none;
+    color: white;
+    background-color: gray;
+    display: inline-block;
+    font-size: 15px;
+    text-align: center;
+    border: 2px solid gray;
+    border-radius: 2px;
+}
+.error-message{
+    display: block !important;
+    color: red;
+}
